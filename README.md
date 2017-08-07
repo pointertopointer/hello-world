@@ -1,2 +1,2 @@
 # hello-world
-prj1
+human
